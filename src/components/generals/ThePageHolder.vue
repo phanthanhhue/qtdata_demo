@@ -22,7 +22,7 @@
       TheHome,
       TheCoronaVirusUpdate,
       TheAbout,
-      TheFooter
+      TheFooter,
     },
     data() {
       return {
